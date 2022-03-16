@@ -20,7 +20,7 @@
 
 
 
-## [Sobre](#Sobre)
+##  [Sobre](#Sobre)
 
 A Philips Dev Week foi uma semana com aulas exclusivas para construir junto com experts um Sistema de Consulta para Tratamento de Câncer de Mama do SUS. Oferecido pela Philips e a Digital Innovation One. 
 
@@ -76,7 +76,7 @@ Após esse passo abra o arquivo, src/main/java/com.dio_class.devweek/ DevweekApp
 
 A aplicação estará online após a exibição da mensagem: 
 
-![image-20220316114447501](C:\Users\MMO\AppData\Roaming\Typora\typora-user-images\image-20220316114447501.png)
+![image-20220316114447501](https://github.com/TaisisMarinelo/Philips-Dev-Week-/blob/main/Back/devweek/Util/imagens/image-20220316114447501.png)
 
 Assim já e possível testar. Abra o aplicativo Postman, abaixo segue a lista de endpoints:
 
@@ -111,17 +111,17 @@ Na parte superior da IDE selecione Terminal-> Novo Terminal. E execute um dos co
 
 Após você receberá uma informação como a imagem a seguir:
 
-![image-20220316171911684](C:\Users\MMO\AppData\Roaming\Typora\typora-user-images\image-20220316171911684.png)
+![image-20220316171911684](https://github.com/TaisisMarinelo/Philips-Dev-Week-/blob/main/Back/devweek/Util/imagens/image-20220316171911684.png)
 
 O próprio Angular irá informar o endereço copie e cole ele no navegador para ter acesso a lista com as informações como mostrado a seguir:
 
 http://localhost:4200/
 
-![image-20220316172119660](C:\Users\MMO\AppData\Roaming\Typora\typora-user-images\image-20220316172119660.png)
+![image-20220316172119660](https://github.com/TaisisMarinelo/Philips-Dev-Week-/blob/main/Back/devweek/Util/imagens/image-20220316172119660.png)
 
-![image-20220316172453304](C:\Users\MMO\AppData\Roaming\Typora\typora-user-images\image-20220316172453304.png)
+![image-20220316172453304](https://github.com/TaisisMarinelo/Philips-Dev-Week-/blob/main/Back/devweek/Util/imagens/image-20220316172453304.png)
 
-![image-20220316172542233](C:\Users\MMO\AppData\Roaming\Typora\typora-user-images\image-20220316172542233.png)
+![image-20220316172542233](https://github.com/TaisisMarinelo/Philips-Dev-Week-/blob/main/Back/devweek/Util/imagens/image-20220316172542233.png)
 
 
 
@@ -151,7 +151,7 @@ E possível executar os testes pela classe DevweekApplicationTests.java que esta
 
 O retorno dos testes e visto a seguir:
 
-![image-20220316110906959](C:\Users\MMO\AppData\Roaming\Typora\typora-user-images\image-20220316110906959.png)
+![image-20220316110906959](https://github.com/TaisisMarinelo/Philips-Dev-Week-/blob/main/Back/devweek/Util/imagens/image-20220316110906959.png)
 
 
 

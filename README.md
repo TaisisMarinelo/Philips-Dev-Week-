@@ -139,8 +139,8 @@ http://localhost:4200/
   - Project Maven, Languae Java, SpringBoot 2.6.4, JAR, JAVA11
   - Dependências : Data JPA, Boot Dev Tools, Spring Web, MySQL Driver
 - Angular CLI [[Angular CLI](https://angular.io/cli)]
-- Nodes SJ [[Node.js (nodejs.org)](https://nodejs.org/en/?msclkid=4c3ba5b4a56811ec81cae9952949cf66)]
-- MVRepository [https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api/2.3.0]
+- Nodes JS [[Node.js (nodejs.org)](https://nodejs.org/en/?msclkid=4c3ba5b4a56811ec81cae9952949cf66)]
+- MVNRepository [https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api/2.3.0]
 - [Git](https://git-scm.com)
 
 - Postman [[Postman API Platform | Sign Up for Free](https://www.postman.com/?msclkid=73fcd4a4a56811ecba9fe94e4184434a)]

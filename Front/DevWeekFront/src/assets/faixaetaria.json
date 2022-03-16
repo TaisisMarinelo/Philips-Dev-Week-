@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "faixaI": "20",
+        "faixaN": "24",
+        "descricao": "Entre 20 e 24 anos"
+    },
+    {
+        "id": 2,
+        "faixaI": "30",
+        "faixaN": "30",
+        "descricao": "Entre 30 e 34 anos"
+    },
+    {
+        "id": 3,
+        "faixaI": "40",
+        "faixaN": "44",
+        "descricao": "Entre 40 e 44 anos"
+    },
+    {
+        "id": 4,
+        "faixaI": "50",
+        "faixaN": "54",
+        "descricao": "Entre 50 e 54 anos"
+    }
+]

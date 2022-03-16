@@ -1,0 +1,9 @@
+Exame Citopatológico MAMA
+Quant Exames por Reg Residência e Faixa Etária
+Período:Jul/2015
+"Reg Residência";" Entre 11 a 14 anos";" Entre 15 a 19 anos";" Entre 20 a 24 anos";" Entre 25 a 29 anos";" Entre 30 a 34 anos";" Entre 35 a 39 anos";" Entre 40 a 44 anos";" Entre 45 a 49 anos";" Entre 50 a 54 anos";" Entre 55 a 59 anos";" Entre 60 a 64 anos";" Entre 65 a 69 anos";" Acima de 70 anos";" Informação inconsistente";"Total"
+"Região Nordeste";-;4;1;4;18;29;16;19;11;10;4;2;2;-;120
+"Região Sudeste";2;15;21;48;57;51;54;58;36;23;19;6;21;1;412
+"Região Centro-Oeste";-;4;10;12;9;6;30;21;16;10;6;5;5;-;134
+"Total";2;23;32;64;84;86;100;98;63;43;29;13;28;1;666
+ document.vlinkColor="black"

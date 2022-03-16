@@ -1,0 +1,22 @@
+[
+   {
+    "id": 1,
+    "regiao": "Norte",
+    "totalExames": 10
+   },
+   {
+    "id": 2,
+    "regiao": "Nordeste",
+    "totalExames": 40
+   },
+   {
+    "id": 3,
+    "regiao": "Suldeste",
+    "totalExames": 1250
+   },
+   {
+    "id": 4,
+    "regiao": "Sul",
+    "totalExames": 1050
+   }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "regiaoId": 4,
+        "mes": 3,
+        "faixaId": 2,
+        "qntExames": 3
+    },
+    {
+        "id": 2,
+        "regiaoId": 3,
+        "mes": 3,
+        "faixaId": 1,
+        "qntExames": 5
+    },
+    {
+        "id": 3,
+        "regiaoId": 2,
+        "mes": 6,
+        "faixaId": 4,
+        "qntExames": 12
+    },    {
+        "id": 4,
+        "regiaoId": 1,
+        "mes": 8,
+        "faixaId": 4,
+        "qntExames": 5
+    }
+]

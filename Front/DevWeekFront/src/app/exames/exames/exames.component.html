@@ -1,0 +1,68 @@
+<div class="margem">
+  <mat-card>
+    <mat-card-subtitle>
+      Exames de mamografia entre Junho e Julho de 2015
+    </mat-card-subtitle>
+      <table matSort (matSortChange)="ocorrenciaExame">
+          <tr>
+            <th mat-sort-header="id">ID</th>
+            <th mat-sort-header="regiaoId">ID Região</th>
+            <th mat-sort-header="mes">Mês</th>
+            <th mat-sort-header="faixaId">ID Faixa Etaria</th>
+            <th mat-sort-header="qntExames">Nº de exames</th>
+          </tr>
+        
+          <tr *ngFor="let element of ocorrenciaExame">
+            <td>{{element.id}}</td>
+            <td>{{element.regiaoId}}</td>
+            <td>{{element.mes}}</td>
+            <td>{{element.faixaId}}</td>
+            <td>{{element.qntExames}}</td>
+          </tr>
+        </table>
+  </mat-card>
+</div>
+
+<div class="margem">
+    <mat-card>
+      <mat-card-subtitle>
+        Relação de Regiões Brasileiras
+      </mat-card-subtitle>
+        <table matSort (matSortChange)="regioes">
+            <tr>
+              <th mat-sort-header="id">ID</th>
+              <th mat-sort-header="regiao">Região</th>
+              <th mat-sort-header="totalExames">Nº de exames</th>
+            </tr>
+          
+            <tr *ngFor="let element of regioes">
+              <td>{{element.id}}</td>
+              <td>{{element.regiao}}</td>
+              <td>{{element.totalExames}}</td>
+            </tr>
+          </table>
+    </mat-card>
+</div>
+
+<div class="margem">
+  <mat-card>
+    <mat-card-subtitle>
+      Faixa Etaria das Mulheres que realizaram os exames
+    </mat-card-subtitle>
+      <table matSort (matSortChange)="faixaEtaria">
+          <tr>
+            <th mat-sort-header="id">ID</th>
+            <th mat-sort-header="faixaI">Faixa inicial</th>
+            <th mat-sort-header="faixaN">Faixa final</th>
+            <th mat-sort-header="descricao">Descrição</th>
+          </tr>
+        
+          <tr *ngFor="let element of faixaEtaria">
+            <td>{{element.id}}</td>
+            <td>{{element.faixaI}}</td>
+            <td>{{element.faixaN}}</td>
+            <td>{{element.descricao}}</td>
+          </tr>
+        </table>
+  </mat-card>
+</div>

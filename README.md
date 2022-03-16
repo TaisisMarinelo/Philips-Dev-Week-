@@ -38,11 +38,13 @@ https://github.com/julianazanelatto/devWeekJavaTest
 
 
 
+
 ## [Pré-Requisitos](#pre-requisitos)
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:  [[Postman ](https://www.postman.com/?msclkid=73fcd4a4a56811ecba9fe94e4184434a)], [[ IntelliJ ](https://www.jetbrains.com/pt-br/idea/download/#section=windows)], [[Visual Studio Code ](https://code.visualstudio.com/?msclkid=8c3f8a3aa56811ecb7506a96f8c7dc4a)].
 
 Além do  [[Java 11](https://www.oracle.com/java/technologies/downloads/?msclkid=b9cbf748a56811ecbee4356179aaa9ef)],  [[MySQL Workbench](https://dev.mysql.com/downloads/workbench/?msclkid=2bf33a25a56811ecb04959e892fac868)], [[Angular CLI](https://angular.io/cli)], [[Node.js](https://nodejs.org/en/?msclkid=4c3ba5b4a56811ec81cae9952949cf66)], [Git](https://git-scm.com) .
+
 
 
 
@@ -58,9 +60,11 @@ Para rodar a aplicação clone este repositório git  com o comando:
 
 
 
+
 ## [Banco de Dados](#banco-de-dados)
 
 Como esse treinamento tinha o objetivo de ser o mais direto possível, o BD foi todo criado  diretamente no Workbench. Abaixo segue o script está na pasta útil do back-end você deve começar criando o usuário do projeto e dando as permissões necessárias para a comunicação e alteração do mesmo. Após execute a criação do banco, a criação das tabelas e popular o banco com os dados do sistema DATA SUS todos já encontram-se no script.
+
 
 
 
@@ -99,6 +103,7 @@ Assim já e possível testar. Abra o aplicativo Postman, abaixo segue a lista de
 
 
 
+
 ## [Font-end](#Font-end)
 
 Para visualizar a listagem completa no frontend que foi o intuito do projeto, e necessário abrir a IDE Visual Studio. Vá em Arquivo -> Abrir pasta -> navegue até o local que salvou os arquivos-> selecione a pasta e clique em selecionar pasta.
@@ -125,6 +130,7 @@ http://localhost:4200/
 
 
 
+
 ## [Tecnologias](#tecnologias)
 
 - JAVA11 JDK [[Java Downloads | Oracle](https://www.oracle.com/java/technologies/downloads/?msclkid=b9cbf748a56811ecbee4356179aaa9ef)]
@@ -143,6 +149,7 @@ http://localhost:4200/
 
 
 
+
 ## [Testes](#testes)
 
 E possível executar os testes pela classe DevweekApplicationTests.java que esta em src/teste/java/com.dio_class.devweek. A mesma está executando testes de API, que validam os códigos HTTP de resposta dos endpoint. Para executar esses teste basta abrir a classe e utilizar o atalho:
@@ -152,6 +159,7 @@ E possível executar os testes pela classe DevweekApplicationTests.java que esta
 O retorno dos testes e visto a seguir:
 
 ![image-20220316110906959](https://github.com/TaisisMarinelo/Philips-Dev-Week-/blob/main/Back/devweek/Util/imagens/image-20220316110906959.png)
+
 
 
 
